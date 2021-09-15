@@ -1,0 +1,12 @@
+ls -> verifica os arquivos presentes
+mkdir -> cria arquivo
+git init -> pasta oculta
+ls -a -> ve pasta oculta
+git config --global user.email / user.name "felipedsousarocha@gmail.com"
+# == h1
+## == h2 ...
+_itealico_
+**negrito**
+- bolinha
+git add *
+git commit -m ""

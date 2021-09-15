@@ -1,0 +1,11 @@
+Comandos CMD Wimdows
+-cd entrar no local c ex, cd .. voltar a anterior
+-dir todos as pastas no local
+-mkdir cria pasta
+-del/rmdir 
+-cls limpa terminal
+tab completa
+echo printa
+echo hello > hello.txt
+del só apaga arquivos
+rmdir remove a pasta rmdir workspace /S /Q

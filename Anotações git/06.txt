@@ -1,0 +1,16 @@
+git init - cria pasta .git e inicializa um repositório dentro daquela pasta
+unmodified - sem modificação
+Modified - modificado
+Staged - Arquivos que estão em preparo para ir para outro tipo de agrupamento o commit
+Untracekd - git não conhecia
+Commit - retorna para Unmodified, salva as modificações
+Servidor -> Remote Repository
+Ambiente de desenvolvimento -> Working Directory, Staging Area, Local Repository
+git status - estados dos arquivos
+mkdir - pasta
+mv arquivo ./pasta/ - mover
+git add nome do arquivo pasta/
+git commit -m "strings
+"
+echo > nome do arquivo.md
+git add * ou .

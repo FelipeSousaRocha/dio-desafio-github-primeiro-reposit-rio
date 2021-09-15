@@ -1,0 +1,22 @@
+Objetos - Armazena meta dados
+muda um arquivo muda toda a leitura e encriptação de um objeto
+
+Blobs - bolhas
+echo 'conteudo' | git hash-object --stdin
+echo -e 'conteudo' | openssl sha1 (diferentes)
+echo -e 'blob 9\0conteudo' | openssl sha1
+
+Tree - árvores 
+apontam para os blobs ou outras arvores
+possuem um sha1
+estrutura onde está os arquivos
+\0
+blob sa4d8s texto.txt
+
+Commit 
+aponta para uma árvore, um parente, um autor ou uma mensagem
+timestamp - horário de criação
+também possuem um sha1
+fica fácil ver a linha do tempo e verificar se foi alterado
+único para cada autor
+

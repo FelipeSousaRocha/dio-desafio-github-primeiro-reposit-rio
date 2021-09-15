@@ -1,0 +1,5 @@
+SHA1 algoritmo de encriptação
+essa encriptação gera um cx
+openssl sha1 texto.txt
+da39a3ee5e6b4b0d3255bfef95601890afd80709 - sem mudança
+3a52ce780950d4d969792a2559cd519d7ee8c727 - mudança

@@ -1,0 +1,7 @@
+git config --list
+q -> sai
+git config --global --unset user.name -> exclui nome
+git config --global user.name "nick"
+git remote add origin link do github
+git remote -v -> lista o link
+git push origin master -> envia o arquivo pro github

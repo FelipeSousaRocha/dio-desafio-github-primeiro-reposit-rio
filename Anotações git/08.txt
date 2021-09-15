@@ -1,0 +1,5 @@
+Edições na mesma linha e causam conflitos
+Alguém alterou o conteúdo antes do seu
+git pull origin master - puxa de volta 
+o git mostra no arquivo onde aconteceu a alteração através de =====
+git clone url do código
