@@ -1,0 +1,3 @@
+Ctrl + shift +  ' = novo terminal
+
+Ctrl + shift + p = barrinha de comandos
