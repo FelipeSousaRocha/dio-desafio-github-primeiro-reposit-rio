@@ -3,3 +3,8 @@ Alguém alterou o conteúdo antes do seu
 git pull origin master - puxa de volta 
 o git mostra no arquivo onde aconteceu a alteração através de =====
 git clone url do código
+git  reset --hard
+git restore HEAD~1 = reverter commit
+gitk = grafico
+git log --graph = grafico
+git log --oneline = commits feitos
